@@ -1,0 +1,1 @@
+{"title":"每日艺术与电影","description":"集成每日名画和每日电影功能，自动获取艺术作品和电影信息并在Home Assistant中显示。","config":{"step":{"user":{"title":"每日艺术与电影配置","description":"无需额外配置，点击提交即可添加集成。"}},"error":{"single_instance_allowed":"仅允许一个每日艺术与电影实例。"}},"entity":{"sensor":{"daily_artwork":{"name":"每日名画2"},"daily_artwork_new":{"name":"每日名画1"},"daily_quote":{"name":"每日一言"},"daily_movie":{"name":"每日电影"}}}}

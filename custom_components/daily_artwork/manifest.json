@@ -1,0 +1,1 @@
+{"domain": "daily_artwork","name": "每日艺术与电影","description": "集成每日名画和每日电影功能，自动获取艺术作品和电影信息并在Home Assistant中显示。","version": "0.1.0","documentation": "https://github.com/chaosl1996/daily_artwork","requirements": ["aiohttp>=3.9.0","beautifulsoup4>=4.12.2"],"codeowners": ["@chaosl1996"],"config_flow": true,"iot_class": "cloud_polling","homeassistant": "2023.8.0"}
